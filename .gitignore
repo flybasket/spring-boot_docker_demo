@@ -1,0 +1,9 @@
+# Java file
+/bin/
+.settings
+.vscode
+.classpath
+.project
+target
+.springBeans
+**/classes
